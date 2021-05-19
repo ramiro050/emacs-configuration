@@ -1,0 +1,14 @@
+*~
+.org-id-locations
+auto-save-list/
+bookmarks
+elpa/
+eshell/
+nano-emacs/
+org-roam.db
+racket-mode/
+recentf
+snippets/
+tramp
+transient/
+url/
